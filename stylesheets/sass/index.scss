@@ -1,0 +1,15 @@
+.gridItem{ 
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+}
+
+.gridcontainer {
+    background-color: powderblue;
+}
+
+.subGridItem {
+    // Copiar las espcificiaciones de .gridItem
+    @extend .gridItem;
+    background-color: rgb(173, 199, 172);
+} 

@@ -1,0 +1,15 @@
+.gridItem, .subGridItem {
+  background-color: pink;
+  margin: 10px;
+  padding: 10px;
+}
+
+.gridcontainer {
+  background-color: powderblue;
+}
+
+.subGridItem {
+  background-color: #adc7ac;
+}
+
+/*# sourceMappingURL=index.css.map */
